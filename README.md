@@ -1,2 +1,5 @@
-# mizan-pos-releases
-Mizan Windows kasa kurulum dosyalari. Kaynak kodu bu depoda yoktur.
+# Mizan kasa kurulum dosyalari
+
+Bu depoda yalnizca herkese acik Windows kasa paketleri durur. Kaynak kodu burada yoktur.
+
+Hangi surumun kurulacagini kasa API soyler. Bu sayfa deneme surumu barindirmaz.
